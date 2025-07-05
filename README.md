@@ -114,3 +114,11 @@ Testbench (`cryptoveril_tb.v`) includes:
 ## Compilation & Simulation
 
 ### Used Verilator Simulator
+
+---
+
+## Credits
+
+Developed as part of a Igniters Hackathon 2025 organised by IIITDM Kancheepuram. It focused on pipelined cryptographic transformations with real-world timing and clock-domain challenges.
+
+Link to the problem statement - https://github.com/SCC-IIITDM/Encryption-Decryption-25.git
