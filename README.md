@@ -68,4 +68,4 @@ Testbench (`cryptoveril_tb.v`) includes:
 
 ## 🔧 Compilation & Simulation
 
-### Using Verilator Verilog
+### Used Verilator Simulator
