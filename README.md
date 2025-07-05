@@ -1,4 +1,4 @@
-# 🔐 Crypto Pipeline Verilog (3-Stage Encrypted Hardware System)
+# 🔐 Crypto Pipelining (3-Stage Encrypted Hardware System)
 
 This project implements a 3-stage pipelined cryptographic transformation system using Verilog, simulating a real-world asynchronous hardware pipeline with multi-clock domains. It includes:
 
